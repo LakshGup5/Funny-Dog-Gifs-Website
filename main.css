@@ -1,0 +1,21 @@
+h1{
+        text-align: center; 
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        color: Coral ;
+        background: linear-gradient(SandyBrown, #c864c8) ;
+        text-shadow: 4px 4px #e42a2a;
+        font-size: 70px;
+}
+
+p{
+        text-align: center;
+}
+
+ol li{
+        font-size: 35px;
+        color: BlanchedAlmond;
+}
+
+body{
+        background: linear-gradient(PapayaWhip, SandyBrown, Tan, Wheat, RosyBrown, Plum, DarkSalmon, Red, Crimson, #D60AA3, OrangeRed, Tomato) ;
+}
